@@ -8,9 +8,7 @@
 #include <iomanip>
 
 #include "knife.h"
-#include "knife.cpp"
 #include "functions.h"
-#include "functions.cpp"
 
 using namespace std;
 
